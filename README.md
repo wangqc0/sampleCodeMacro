@@ -1,4 +1,4 @@
-# Sample Code in Macroeconomic Analysis
+# Sample Code of Macroeconomic Analysis
 
 By: Qichao Wang
 
