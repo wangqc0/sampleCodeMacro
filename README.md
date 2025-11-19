@@ -1,4 +1,8 @@
-# Qichao-Wang-code-sample
+# Sample Code in Macroeconomic Analysis
+
+By: Qichao Wang
+
+Last update on: 19 November 2025 (Version 1)
 
 A sample project containing downloading macroeconomic data from FRED and applying VAR and FEVD analysis using MATLAB.
 
